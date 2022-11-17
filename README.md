@@ -11,6 +11,6 @@
   <img
     width="356"
     align="right"
-    src="https://camo.githubusercontent.com/42a3481e23632d7834705b0322bdc9f14dfb44f567db28c6f974a339f134e9a4/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403ae381aae3828be381bf3f7468656d653d72756c653334"
+    src="https://count.getloli.com/get/@:MyNameIsKiyoshi?theme=rule34"
   />
 </a>
