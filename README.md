@@ -17,3 +17,5 @@
   <a href="https://api.daily.dev/get?r=mynameiskiyoshi" target="_blank">
 
 </a>
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://ukraine.europarl.europa.eu/)
