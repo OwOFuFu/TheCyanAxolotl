@@ -20,7 +20,7 @@ jobs:
           # committer_message: "build: update `${filename}`"
 
           # Options
-          user: MyNameIsKiyoshi
+          user: TheCyanAxolotl 
           template: classic
           base: header, repositories
           config_timezone: Europe/Rome
@@ -45,7 +45,7 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 3
-          plugin_tweets_user: KiyoshiWhitePaw
+          plugin_tweets_user: TheCyanAxolotl 
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_music: yes
           plugin_music_limit: 5
