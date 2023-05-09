@@ -12,7 +12,6 @@
   />
   </div>
   
-  ![Metrics](https://raw.githubusercontent.com/TheCyanAxolotl/TheCyanAxolotl/main/github-metrics.svg)
  </a>
   <a href="https://api.daily.dev/get?r=thecyanaxolotl" target="_blank">
 
