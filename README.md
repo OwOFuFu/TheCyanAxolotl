@@ -7,11 +7,11 @@
   />
   </div>
   <div>
-    <img
-    width="350"
+      <img
+    width="356"
     align="right"
     src="https://i.imgur.com/THcky0G.gif"
-    />
+  />
   </div>
  </a>
   <a href="https://api.daily.dev/get?r=thecyanaxolotl" target="_blank">
