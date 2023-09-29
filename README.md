@@ -5,11 +5,9 @@
     align="left"
     src="https://count.getloli.com/get/@:TheCyanAxolotl?theme=rule34"
   />
-  </div>
-  <div>
-      <img
+    <img
     width="356"
-    align="center"
+    align="right"
     src="https://i.imgur.com/THcky0G.gif"
   />
   </div>
