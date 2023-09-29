@@ -6,11 +6,13 @@
     src="https://count.getloli.com/get/@:TheCyanAxolotl?theme=rule34"
   />
   </div>
-  <img
+  <div>
+    <img
     width="350"
     align="right"
     src="https://i.imgur.com/THcky0G.gif"
     />
+  </div>
  </a>
   <a href="https://api.daily.dev/get?r=thecyanaxolotl" target="_blank">
 
