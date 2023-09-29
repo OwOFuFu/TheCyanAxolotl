@@ -7,9 +7,9 @@
   />
   </div>
   <img
-    width="100"
+    width="350"
     align="right"
-    src=https://img1.picmix.com/output/stamp/normal/8/5/3/4/1694358_42bea.gif
+    src="https://img1.picmix.com/output/stamp/normal/8/5/3/4/1694358_42bea.gif"
     />
  </a>
   <a href="https://api.daily.dev/get?r=thecyanaxolotl" target="_blank">
