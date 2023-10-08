@@ -1,4 +1,9 @@
 <a href="https://api.daily.dev/get?r=thecyanaxolotl" target="_blank">
+  <div align="center">
+    <a href="https://ko-fi.com/E1E7PXNKM">
+        <img src="https://ko-fi.com/img/githubbutton_sm.svg">
+    </a>
+</div>
   <div>
       <img
     width="356"
